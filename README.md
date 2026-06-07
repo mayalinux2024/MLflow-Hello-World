@@ -37,7 +37,7 @@ These values are visible in the MLflow Tracking UI under the experiment.
 
 The screenshot below shows the MLflow experiment run with logged parameters and metrics.
 
-![MLflow Run Screenshot](mlflow-demo-run.png)
+![MLflow Run Screenshot](/screenshots/mlflow-demo-run.png)
 
 ---
 
